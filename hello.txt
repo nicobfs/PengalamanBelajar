@@ -1,2 +1,1 @@
-buat file hello.txt
-hello untuk commit development
+hello world 
