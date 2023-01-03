@@ -1,2 +1,1 @@
-buat file hello.txt
-commit main hello.txt
+hello world 
